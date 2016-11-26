@@ -27,12 +27,16 @@ Then counts the number of times the
 This process is repeated 1000 times, and percentage of each is displayed at the end.  
 
 ## This app then goes one step further..
-by changing num_doors from 3 to another number, you can see how your odds stack up given a greater initial number of doors.  
-No matter how many doors, only 1 door is revealed, and only 1 switch is made.  
+by changing num_doors from 3 to another number,   
+    you can see how your odds stack up given a greater initial number of doors.  
+No matter how many doors there are,  
+   - only 1 door is revealed, and  
+   - only 1 switch is made.  
+
 In the case of 3 doors, there is only 1 other door to choose from.  
 In the case of more than 3 doors, the user switches to another door, via     
-     random (number) selection of the remaining doors   
-     (shown door is never chosen, and the first door chosen is also not eligible).  
+    - random (number) selection of the remaining doors   
+    - (shown door is never chosen, and the first door chosen is also not eligible).  
      
 ### TODO
 **Let the user input the number of doors** (default to 3 if nothing input)  

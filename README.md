@@ -42,5 +42,15 @@ Let the user indicate
   - how many times allowed to switch
 When number of doors is greater than 3. (limit shown doors to num_doors - 2, similar with number of switches)
 
+#### sources
+Udacity.com Intro to Statistics Course: 31 Monty Hall Problem
+
+Intro to the Concept and Explanation of why this is so:
+https://classroom.udacity.com/courses/st101/lessons/48744119/concepts/484806120923#
+
+The posed programming challenge for the Monty Hall Problem
+https://classroom.udacity.com/courses/st101/lessons/48744119/concepts/487043480923#
+
+
 
 
